@@ -3,3 +3,4 @@ This is file B
 This is a superb file
 
 Another change
+Am adding
